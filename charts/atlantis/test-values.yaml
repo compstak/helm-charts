@@ -21,3 +21,4 @@ statefulSet:
   annotations:
     statefulSetAnnotation1: value5
     statefulSetAnnotation2: value6
+    
